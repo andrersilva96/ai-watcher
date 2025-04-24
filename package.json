@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^6.3.1"
+  },
+  "dependencies": {
+    "@langchain/google-genai": "^0.2.5",
+    "langchain": "^0.3.24"
   }
 }

@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "IA Watcher",
+    "version": "1.0",
+    "description": "Extensão com DevTools personalizada que envia perguntas para a IA Gemini.",
+    "permissions": ["scripting"],
+    "devtools_page": "devtools.html",
+    "action": {
+        "default_title": "IA Watcher"
+    },
+    "host_permissions": ["<all_urls>"]
+}
